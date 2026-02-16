@@ -1,0 +1,110 @@
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440000",
+    "title": "MDN Web Docs: HTML Basics",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics",
+    "tags": ["html", "beginner", "documentation"]
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440001",
+    "title": "HTML Semantic Elements Guide",
+    "url": "https://www.w3schools.com/html/html5_semantic_elements.asp",
+    "tags": ["html", "intermediate", "accessibility"]
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440002",
+    "title": "CSS Tricks: A Complete Guide to Flexbox",
+    "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+    "tags": ["css", "intermediate", "layout"]
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440003",
+    "title": "CSS Grid Garden - Interactive Learning",
+    "url": "https://cssgridgarden.com/",
+    "tags": ["css", "beginner", "interactive"]
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440004",
+    "title": "JavaScript.info: The Modern JavaScript Tutorial",
+    "url": "https://javascript.info/",
+    "tags": ["javascript", "beginner", "comprehensive"]
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440005",
+    "title": "You Don't Know JS (book series)",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "tags": ["javascript", "advanced", "free-book"]
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440006",
+    "title": "TypeScript Handbook",
+    "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+    "tags": ["typescript", "beginner", "official"]
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440007",
+    "title": "TypeScript Deep Dive",
+    "url": "https://basarat.gitbook.io/typescript/",
+    "tags": ["typescript", "intermediate", "free-book"]
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440008",
+    "title": "React Official Documentation",
+    "url": "https://react.dev/",
+    "tags": ["react", "beginner", "official"]
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440009",
+    "title": "React Patterns and Best Practices",
+    "url": "https://kentcdodds.com/blog",
+    "tags": ["react", "advanced", "patterns"]
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440010",
+    "title": "Node.js Documentation",
+    "url": "https://nodejs.org/en/docs/",
+    "tags": ["nodejs", "beginner", "official"]
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440011",
+    "title": "Node.js Best Practices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "tags": ["nodejs", "intermediate", "best-practices"]
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440012",
+    "title": "PostgreSQL Tutorial",
+    "url": "https://www.postgresqltutorial.com/",
+    "tags": ["databases", "beginner", "sql"]
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440013",
+    "title": "MongoDB University - Free Courses",
+    "url": "https://learn.mongodb.com/",
+    "tags": ["databases", "beginner", "nosql"]
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440014",
+    "title": "Testing JavaScript with Jest",
+    "url": "https://jestjs.io/docs/getting-started",
+    "tags": ["testing", "beginner", "javascript"]
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440015",
+    "title": "Testing Library Documentation",
+    "url": "https://testing-library.com/docs/",
+    "tags": ["testing", "react", "best-practices"]
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440016",
+    "title": "GitHub Actions Documentation",
+    "url": "https://docs.github.com/en/actions",
+    "tags": ["ci-cd", "beginner", "github"]
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440017",
+    "title": "CI/CD Pipeline Best Practices",
+    "url": "https://www.atlassian.com/continuous-delivery/principles",
+    "tags": ["ci-cd", "intermediate", "devops"]
+  }
+]
