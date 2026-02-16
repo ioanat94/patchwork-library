@@ -4,7 +4,7 @@ First off, thank you for considering contributing to Patchwork Library! 🎉
 
 This project is designed to help aspiring developers practice collaborative coding. Whether you're making your first open source contribution or you're an experienced developer, we're excited to have you here!
 
-## � The Learning Philosophy
+## 🎯 The Learning Philosophy
 
 **⚠️ IMPORTANT: This project intentionally contains bugs, broken features, and deliberate mistakes!**
 
@@ -32,7 +32,7 @@ Real-world development means inheriting codebases with issues. By practicing on 
 
 **Found something broken? Perfect! That's your first contribution waiting to happen.** 🚀
 
-## �🌟 Code of Conduct
+## 🌟 Code of Conduct
 
 Be respectful, inclusive, and constructive. We're all here to learn and grow together.
 
@@ -75,7 +75,7 @@ git checkout -b feature/your-feature-name
 - `docs/update-readme` - for documentation
 - `test/library-component` - for adding tests
 
-## � Finding Work: Intentional Gaps & Learning Opportunities
+## 🔍 Finding Work: Intentional Gaps & Learning Opportunities
 
 Not sure what to work on? Here's where to look:
 
@@ -92,11 +92,11 @@ Browse [Issues](https://github.com/ioanat94/patchwork-library/issues) for:
 
 Click around the app and try to break things:
 
-- **Broken links?** Some links might 404 or go nowhere\u2014fix them!
+- **Broken links?** Some links might 404 or go nowhere - fix them!
 - **Layout issues?** Things misaligned, overlapping, or responsive breakpoints broken?
 - **Styling problems?** Wrong colors, missing hover states, poor contrast?
 - **Logic errors?** Components not updating? Data not loading correctly?
-- **Console errors?** Open DevTools\u2014are there warnings or errors to fix?
+- **Console errors?** Open DevTools - are there warnings or errors to fix?
 
 **Pro tip:** If something looks wrong or doesn't work, it's probably intentional. Document it in an issue, then fix it!
 
@@ -133,7 +133,7 @@ Browse the codebase and ask yourself:
 
 If you think of it, it might be an intentional gap waiting for someone like you!
 
-## �📋 Types of Contributions
+## 📋 Types of Contributions
 
 ### Adding Learning Resources
 

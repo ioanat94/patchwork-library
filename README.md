@@ -116,7 +116,9 @@ Please read our [**Contributing Guide**](CONTRIBUTING.md) to learn about:
 
 Thanks to all the people who have contributed to Patchwork Library!
 
-<!-- Contributors will be listed here -->
+<a href="https://github.com/ioanat94/patchwork-library/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ioanat94/patchwork-library" />
+</a>
 
 Want to see your name here? Check out the [Contributing Guide](CONTRIBUTING.md)!
 
