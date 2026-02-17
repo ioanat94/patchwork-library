@@ -1,3 +1,5 @@
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+
 import About from './components/About';
 import Contributors from './components/Contributors';
 import Header from './components/Header';
@@ -12,7 +14,7 @@ function App() {
         <Library />
         <Contributors />
       </main>
-      <footer className='bg-slate-900 text-white py-6 text-center'>
+      <footer className='bg-salate-900 text-white py-6 text-center'>
         <div className='container mx-auto px-4'>
           <p className='text-slate-300'>
             Open source project • Licensed under MIT •{' '}

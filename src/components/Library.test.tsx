@@ -2,6 +2,7 @@ import { describe, expect, it } from 'vitest';
 import { render, screen } from '@testing-library/react';
 
 import Library from './Library';
+import ResourceItem from './ResourceItem';
 
 describe('Library', () => {
   it('renders the library section heading', () => {

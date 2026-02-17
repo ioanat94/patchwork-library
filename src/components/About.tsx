@@ -1,10 +1,13 @@
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 
+import Contributors from './Contributors';
+import Header from './Header';
+
 export default function About() {
   return (
     <section id='about' className='py-12 bg-slate-50'>
-      <div className='container mx-auto px-4 max-w-4xl'>
-        <h2 className='text-3xl font-bold mb-6'>About Patchwork Library</h2>
+      <div className='container px-4 max-w-4xl'>
+        <h2 className='text-xl font-bold mb-6'>About Patchwork Library</h2>
         <Card>
           <CardHeader>
             <CardTitle>Our Mission</CardTitle>
@@ -32,7 +35,7 @@ export default function About() {
             </p>
             <div>
               <h3 className='font-semibold mb-2'>Built With:</h3>
-              <ul className='list-disc list-inside space-y-1 text-slate-700'>
+              <ul className='list-decimal list-inside space-y-1 text-slate-700'>
                 <li>React 19 with TypeScript</li>
                 <li>Vite for blazing fast development</li>
                 <li>Tailwind CSS v4 for styling</li>
@@ -44,8 +47,8 @@ export default function About() {
             <p className='text-sm text-slate-600 mt-4'>
               Want to contribute? Check out our{' '}
               <a
-                href='https://github.com/ioanat94/patchwork-library/blob/main/CONTRIBUTING.md'
-                className='text-blue-600 hover:underline'
+                href='https://github.com/ioanat94/library-patchwork/blob/main/CONTRIBUTING.md'
+                className='text-red-600 hover:underline'
               >
                 Contributing Guide
               </a>{' '}

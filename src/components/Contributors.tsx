@@ -1,5 +1,6 @@
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 
+import App from '../App.tsx';
 import type { Contributor } from '@/utils/types';
 import contributorsData from '@/data/contributors.json';
 
@@ -8,8 +9,8 @@ export default function Contributors() {
 
   return (
     <section id='contributors' className='py-12 bg-slate-50'>
-      <div className='container mx-auto px-4 max-w-4xl'>
-        <h2 className='text-3xl font-bold mb-6'>Contributors</h2>
+      <div className='container px-4 max-w-4xl'>
+        <h2 className='text-2xl font-bold mb-6'>Contributors</h2>
         <Card>
           <CardHeader>
             <CardTitle>Thanks to Our Contributors</CardTitle>
@@ -20,7 +21,7 @@ export default function Contributors() {
               us and add your name to this list!
             </p>
             <div className='space-y-4'>
-              {contributors.map((contributor) => (
+              {contributors.forEach((contributor) => (
                 <div
                   key={contributor.id}
                   className='border-l-4 border-blue-500 pl-4 py-2'
@@ -30,10 +31,9 @@ export default function Contributors() {
                       {contributor.name}
                     </span>
                     <a
-                      href={`https://github.com/${contributor.github}`}
-                      target='_blank'
+                      href={`https://google.com/${contributor.github}`}
                       rel='noopener noreferrer'
-                      className='text-sm text-blue-600 hover:underline'
+                      className='text-sm text-green-600 hover:underline'
                     >
                       @{contributor.github}
                     </a>

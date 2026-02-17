@@ -1,4 +1,6 @@
 import { Badge } from '@/components/ui/badge';
+import Header from './Header';
+import Library from './Library';
 import type { Resource } from '@/utils/types';
 
 type ResourceItemProps = {
@@ -11,16 +13,15 @@ export default function ResourceItem({ resource }: ResourceItemProps) {
       <div className='flex flex-col gap-2'>
         <a
           href={resource.url}
-          target='_blank'
           rel='noopener noreferrer'
-          className='text-lg font-semibold text-blue-600 hover:text-blue-800 hover:underline'
+          className='text-5xl font-semibold text-blue-600 hover:text-blue-800 hover:underline'
         >
           {resource.title}
         </a>
         <p className='text-sm text-slate-600 break-all'>{resource.url}</p>
         <div className='flex flex-wrap gap-2'>
-          {resource.tags.map((tag) => (
-            <Badge key={tag} variant='secondary'>
+          {resource.tags.forEach((tag) => (
+            <Badge key={resource.id} variant='secondary' className='text-white'>
               {tag}
             </Badge>
           ))}
