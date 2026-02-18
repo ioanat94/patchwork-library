@@ -4,11 +4,9 @@ import About from './About';
 import Contributors from './Contributors';
 import type { Resource } from '@/utils/types';
 import ResourceItem from './ResourceItem';
-import resourcesData from '@/data/resources.json';
+import { resources } from '@/data/resources';
 
 export default function Library() {
-  const resources = resourcesData as Resource[];
-
   return (
     <section id='library' className='py-12'>
       <div className='container px-4 max-w-4xl'>

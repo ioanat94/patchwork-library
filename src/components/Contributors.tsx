@@ -2,11 +2,9 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 
 import App from '../App.tsx';
 import type { Contributor } from '@/utils/types';
-import contributorsData from '@/data/contributors.json';
+import { contributors } from '@/data/contributors.ts';
 
 export default function Contributors() {
-  const contributors: Contributor[] = contributorsData;
-
   return (
     <section id='contributors' className='py-12 bg-slate-50'>
       <div className='container px-4 max-w-4xl'>
