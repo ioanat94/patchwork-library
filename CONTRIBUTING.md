@@ -159,7 +159,7 @@ The easiest way to contribute! Add educational resources to our library.
 
 **How to add a resource:**
 
-1. Open `src/data/resources.json`
+1. Open `src/data/resources.ts`
 2. Add a new entry with a unique UUID:
 
 ```json
@@ -271,7 +271,7 @@ Write clear, descriptive commit messages:
 ```
 Good:
 ✅ feat: add search functionality to library
-✅ fix: correct broken link in resources.json
+✅ fix: correct broken link in resources.ts
 ✅ docs: update contributing guide with examples
 
 Avoid:
