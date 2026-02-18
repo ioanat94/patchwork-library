@@ -4,6 +4,24 @@ First off, thank you for considering contributing to Patchwork Library! 🎉
 
 This project is designed to help aspiring developers practice collaborative coding. Whether you're making your first open source contribution or you're an experienced developer, we're excited to have you here!
 
+## 🧩 About Issue Structure: One Problem Per Issue
+
+**Please note:** In this repository, you may notice that multiple issues are opened for similar or related problems (for example, each broken navigation link will have its own issue, rather than grouping all broken links together).
+
+**Why?**
+
+- This approach gives more people a chance to practice fixing similar bugs.
+- It allows multiple contributors to work in parallel and learn from the same type of problem.
+- It helps you focus on a single, well-defined task for your pull request.
+
+**What does this mean for you as a contributor?**
+
+- **Only fix what is requested in your assigned issue.**
+- Do not fix related or similar problems that are not described in your issue, even if you notice them in the codebase.
+- If you spot another instance of the same bug, open a new issue for it (unless one already exists) so someone else can work on it.
+
+This is intentional and part of the learning experience! Thank you for helping us create more opportunities for everyone to practice and contribute.
+
 ## 🎯 The Learning Philosophy
 
 **⚠️ IMPORTANT: This project intentionally contains bugs, broken features, and deliberate mistakes!**
