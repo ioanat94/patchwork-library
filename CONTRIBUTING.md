@@ -56,6 +56,22 @@ Be respectful, inclusive, and constructive. We're all here to learn and grow tog
 
 ## 🚀 Getting Started
 
+## 🛠️ Prerequisites
+
+Before you begin, make sure you have the following installed on your machine:
+
+- [Node.js](https://nodejs.org/) (version 16 or higher recommended)
+- [npm](https://www.npmjs.com/) (comes bundled with Node.js)
+
+You can check your versions with:
+
+```bash
+node --version
+npm --version
+```
+
+---
+
 ### 1. Fork and Clone
 
 1. **Fork this repository** by clicking the "Fork" button at the top right
@@ -98,6 +114,13 @@ git checkout -b feature/your-feature-name
 Not sure what to work on? Here's where to look:
 
 ### 1. **Check the Issues Tab**
+
+**How to claim an issue:**
+
+- Before starting work, **comment on the issue asking to be assigned**. Wait for confirmation before you begin. This helps avoid multiple people working on the same issue and ensures your effort is not redundant.
+- **Please only work on one issue at a time.** Once your pull request is merged or closed, feel free to claim another! This gives more people the opportunity to contribute and keeps things fair for everyone.
+
+Thank you for helping us make Patchwork Library a welcoming and collaborative space!
 
 Browse [Issues](https://github.com/ioanat94/patchwork-library/issues) for:
 
