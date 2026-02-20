@@ -118,6 +118,7 @@ Not sure what to work on? Here's where to look:
 **How to claim an issue:**
 
 - Before starting work, **comment on the issue asking to be assigned**. Wait for confirmation before you begin. This helps avoid multiple people working on the same issue and ensures your effort is not redundant.
+- **Exception:** If the issue has the `infinite` tag, you do **not** need to ask for assignment or permission—anyone can work on it at any time!
 - **Please only work on one issue at a time.** Once your pull request is merged or closed, feel free to claim another! This gives more people the opportunity to contribute and keeps things fair for everyone.
 
 Thank you for helping us make Patchwork Library a welcoming and collaborative space!
@@ -314,6 +315,7 @@ Avoid:
 - `refactor:` - Code refactoring
 - `test:` - Adding or updating tests
 - `chore:` - Maintenance tasks
+- `contrib:` - Adding yourself to contributors or adding a resource link (for infinite tasks)
 
 ## 📝 Submitting Changes
 
@@ -369,13 +371,14 @@ Closes #42
 
 ## Type of Change
 
-- [x] New feature
+- [ ] New feature
 - [ ] Bug fix
 - [ ] Documentation update
 - [ ] Code style changes
 - [ ] Code refactoring
 - [ ] Adding or updating tests
 - [ ] Maintenance tasks
+- [ ] Contrib (infinite task: add yourself to contributors, add resource link)
 
 ## Testing
 
