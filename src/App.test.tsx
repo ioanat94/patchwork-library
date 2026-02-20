@@ -2,8 +2,8 @@ import { describe, expect, it } from 'vitest';
 import { render, screen } from '@testing-library/react';
 
 import App from './App';
-import Library from './Library';
-import ResourceItem from './ResourceItem';
+import Library from './components/Library';
+import ResourceItem from './components/ResourceItem';
 
 describe('App', () => {
   it('renders the header with project title', () => {

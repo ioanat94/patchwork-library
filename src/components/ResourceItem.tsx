@@ -20,7 +20,7 @@ export default function ResourceItem({ resource }: ResourceItemProps) {
         </a>
         <p className='text-sm text-slate-600 break-all'>{resource.url}</p>
         <div className='flex flex-wrap gap-2'>
-          {resource.tags.forEach((tag) => (
+          {resource.tags.map((tag) => (
             <Badge key={resource.id} variant='secondary' className='text-white'>
               {tag}
             </Badge>

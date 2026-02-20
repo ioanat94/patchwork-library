@@ -19,7 +19,7 @@ export default function Contributors() {
               us and add your name to this list!
             </p>
             <div className='space-y-4'>
-              {contributors.forEach((contributor) => (
+              {contributors.map((contributor) => (
                 <div
                   key={contributor.id}
                   className='border-l-4 border-blue-500 pl-4 py-2'

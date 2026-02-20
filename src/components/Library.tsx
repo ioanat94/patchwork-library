@@ -21,7 +21,7 @@ export default function Library() {
               more? Submit a pull request!
             </p>
             <div className='space-y-0'>
-              {resources.forEach((resource) => (
+              {resources.map((resource) => (
                 <ResourceItem resource={resource} />
               ))}
             </div>
