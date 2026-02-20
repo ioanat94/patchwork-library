@@ -7,4 +7,10 @@ export const contributors: Contributor[] = [
     'github': 'ioanat94',
     'contributions': 'Project creator and initial setup',
   },
+  {
+  "id": "2a4bcad8-3452-481a-bc57-cef34de8e324",
+  "name": "Kurpotato",
+  "github": "Kurpotato",
+  "contributions": "Little UX test"
+  }
 ];
