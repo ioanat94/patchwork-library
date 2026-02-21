@@ -4,7 +4,6 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/patchwork-library/',
   test: {
     globals: true,
     environment: 'jsdom',
