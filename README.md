@@ -130,11 +130,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Looking for something to work on? Here are some features waiting for contributors:
 
-- [ ] Search functionality for resources
+- [ ] Search functionality for resources and contributors
 - [ ] Filter by tags/categories
-- [ ] Sort options (alphabetical, newest, etc.)
-- [ ] Add resource form with PR generation
-- [ ] Category/topic grouping
+- [ ] Sort options (alphabetical, etc.)
 - [ ] Dark mode
 - [ ] Pagination
 
