@@ -134,7 +134,7 @@ Browse [Issues](https://github.com/ioanat94/patchwork-library/issues) for:
 
 Click around the app and try to break things:
 
-- **Broken links?** Some links might 404 or go nowhere - fix them!
+- **Broken links?** Some links might 404 or go nowhere.
 - **Layout issues?** Things misaligned, overlapping, or responsive breakpoints broken?
 - **Styling problems?** Wrong colors, missing hover states, poor contrast?
 - **Logic errors?** Components not updating? Data not loading correctly?
