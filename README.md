@@ -52,36 +52,6 @@ Check the [Issues](https://github.com/ioanat94/patchwork-library/issues) tab for
 - **[Vitest](https://vitest.dev/)** - Fast unit testing
 - **[Husky](https://typicode.github.io/husky/)** - Git hooks for quality control
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js 18+ and npm
-- Git
-
-### Installation
-
-1. **Fork and clone the repository**
-
-```bash
-git clone https://github.com/ioanat94/patchwork-library.git
-cd patchwork-library
-```
-
-2. **Install dependencies**
-
-```bash
-npm install
-```
-
-3. **Start the development server**
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser.
-
 ## 📜 Available Scripts
 
 - `npm run dev` - Start development server
