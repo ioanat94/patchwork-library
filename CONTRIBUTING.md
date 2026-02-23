@@ -130,7 +130,7 @@ Browse [Issues](https://github.com/ioanat94/patchwork-library/issues) for:
 - `enhancement` - New feature requests
 - `bug` - Things that need fixing
 
-### 2. **Find Bugs (On Purpose!)**
+### 2. **Find Bugs**
 
 Click around the app and try to break things:
 
