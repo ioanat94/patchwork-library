@@ -128,7 +128,7 @@ Browse [Issues](https://github.com/ioanat94/patchwork-library/issues) for:
 - `good first issue` - Perfect for beginners
 - `help wanted` - Looking for contributors
 - `enhancement` - New feature requests
-- `bug` - Things that need fixing (**many are intentional!**)
+- `bug` - Things that need fixing
 
 ### 2. **Find Bugs (On Purpose!)**
 
