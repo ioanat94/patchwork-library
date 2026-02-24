@@ -1,27 +1,27 @@
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
-import Contributors from './Contributors';
-import Header from './Header';
+import Contributors from "./Contributors";
+import Header from "./Header";
 
 export default function About() {
   return (
-    <section id='about' className='py-12 bg-slate-50'>
-      <div className='container px-4 max-w-4xl'>
-        <h2 className='text-xl font-bold mb-6'>About Patchwork Library</h2>
+    <section id="about" className="py-12 bg-slate-50">
+      <div className="container px-4 max-w-4xl">
+        <h2 className="text-xl font-bold mb-6">About Patchwork Library</h2>
         <Card>
           <CardHeader>
             <CardTitle>Our Mission</CardTitle>
           </CardHeader>
-          <CardContent className='space-y-4'>
+          <CardContent className="space-y-4">
             <p>
               Patchwork Library is a community-driven project designed to help
               aspiring developers practice collaborative coding while building a
               valuable resource for the developer community.
             </p>
             <p>
-              <strong className='text-amber-600'>
+              <strong className="text-amber-600">
                 ⚠️ This project intentionally contains bugs and broken features!
-              </strong>{' '}
+              </strong>{" "}
               We believe the best way to learn is by debugging real problems.
               You'll find broken links, layout issues, missing features, and
               styling problems - all deliberately added as learning
@@ -34,8 +34,8 @@ export default function About() {
               while making this resource better for everyone.
             </p>
             <div>
-              <h3 className='font-semibold mb-2'>Built With:</h3>
-              <ul className='list-decimal list-inside space-y-1 text-slate-700'>
+              <h3 className="font-semibold mb-2">Built With:</h3>
+              <ul className="list-decimal list-inside space-y-1 text-slate-700">
                 <li>React 19 with TypeScript</li>
                 <li>Vite for blazing fast development</li>
                 <li>Tailwind CSS v4 for styling</li>
@@ -44,14 +44,14 @@ export default function About() {
                 <li>Husky for Git hooks</li>
               </ul>
             </div>
-            <p className='text-sm text-slate-600 mt-4'>
-              Want to contribute? Check out our{' '}
+            <p className="text-sm text-slate-600 mt-4">
+              Want to contribute? Check out our{" "}
               <a
-                href='https://github.com/ioanat94/library-patchwork/blob/main/CONTRIBUTING.md'
-                className='text-red-600 hover:underline'
+                href="https://github.com/ioanat94/patchwork-library/blob/main/CONTRIBUTING.md"
+                className="text-red-600 hover:underline"
               >
                 Contributing Guide
-              </a>{' '}
+              </a>{" "}
               to get started!
             </p>
           </CardContent>
