@@ -19,4 +19,10 @@ export const contributors: Contributor[] = [
     github: "https://github.com/abhichhetri09",
     contributions: "Bug fixes",
   },
+  {
+    id: "a83785ee-4eb9-4f17-93ab-87a51b56bd84",
+    name: "Ahmad Imam",
+    github: "Ahmad-Imam",
+    contributions: "Bug fixes and feature implementation",
+  }
 ];
