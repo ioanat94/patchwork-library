@@ -16,7 +16,7 @@ export const contributors: Contributor[] = [
   {
     id: "8ee0d2f2-7f12-4dc2-bb88-89b077b92960",
     name: "Abhishek khati chhetri",
-    github: "https://github.com/abhichhetri09",
+    github: "abhichhetri09",
     contributions: "Bug fixes",
   },
   {
