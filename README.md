@@ -87,7 +87,7 @@ Please read our [**Contributing Guide**](CONTRIBUTING.md) to learn about:
 Thanks to all the people who have contributed to Patchwork Library!
 
 <a href="https://github.com/ioanat94/patchwork-library/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ioanat94/patchwork-library" />
+  <img width="273" height="65" alt="contrib" src="https://github.com/user-attachments/assets/10abf83c-a83f-4059-a573-05026928518a" />
 </a>
 
 Want to see your name here? Check out the [Contributing Guide](CONTRIBUTING.md)!
