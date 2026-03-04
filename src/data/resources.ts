@@ -57,12 +57,6 @@ export const resources: Resource[] = [
     'tags': ['react', 'beginner', 'official'],
   },
   {
-    'id': '550e8400-e29b-41d4-a716-446655440009',
-    'title': 'React Patterns and Best Practices',
-    'url': 'https://kentcdodds.com/blog',
-    'tags': ['react', 'advanced', 'patterns'],
-  },
-  {
     'id': '550e8400-e29b-41d4-a716-446655440010',
     'title': 'Node.js Documentation',
     'url': 'https://nodejs.org/en/docs/',
