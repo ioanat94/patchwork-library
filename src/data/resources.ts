@@ -104,4 +104,10 @@ export const resources: Resource[] = [
     'url': 'https://www.atlassian.com/continuous-delivery/principles',
     'tags': ['ci-cd', 'intermediate', 'devops'],
   },
+  {
+    'id': '7b434416-0257-4c76-8d3b-595aa42dc72a',
+    'title': 'Pro Git Book',
+    'url': 'https://git-scm.com/book/en/v2',
+    'tags': ['git', 'beginner', 'free-book'],
+  },
 ];

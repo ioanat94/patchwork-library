@@ -23,6 +23,7 @@ export type TagCategory =
   | 'databases'
   | 'testing'
   | 'ci-cd'
+  | 'git'
   // Difficulty levels
   | 'beginner'
   | 'intermediate'
