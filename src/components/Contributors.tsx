@@ -1,12 +1,12 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-
+import { SECTION_IDS } from "@/utils/constants.ts";
 import App from "../App.tsx";
 import type { Contributor } from "@/utils/types";
 import { contributors } from "@/data/contributors.ts";
 
 export default function Contributors() {
   return (
-    <section id="contributors" className="py-12 bg-slate-50">
+    <section id={SECTION_IDS.CONTRIBUTORS} className="py-12 bg-slate-50">
       <div className="container px-4 max-w-4xl">
         <h2 className="text-2xl font-bold mb-6">Contributors</h2>
         <Card>

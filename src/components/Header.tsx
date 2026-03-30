@@ -1,5 +1,5 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-
+import { SECTION_IDS } from "@/utils/constants";
 export default function Header() {
   return (
     <header className="bg-slate-900 text-white shadow-md">
@@ -15,7 +15,10 @@ export default function Header() {
           <a href="#" className="hover:text-blue-400 transition-colors">
             Library
           </a>
-          <a href="#" className="hover:text-blue-400 transition-colors">
+          <a
+            href={`#${SECTION_IDS.CONTRIBUTORS}`}
+            className="hover:text-blue-400 transition-colors"
+          >
             Contributors
           </a>
         </nav>
